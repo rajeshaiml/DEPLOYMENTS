@@ -38,8 +38,6 @@ If everything goes well, you should  be able to see the predcited message with S
 KUBERNETES
 ############
 ## Deploy SMS SPAM Detection assignment on Google Kubernetes Engine
-## This is the coding test given by PWC in the first round of interview to test the knowledge of ML modeling and deployment
-
 ##Steps followed as part of this assignment:
 - Build a Docker image and upload it on Google Container Registry (GCR).
 - Create clusters and deploy machine learning model with Flask app as a web service.
